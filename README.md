@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on with resourceful developers
 - 📫 How to reach me @yashaswini@7edge.com
 - 🤝 Thrilled to collaborate with resourceful and innovative developers.*
+- 🔗 Let's connect on LinkedIn: [https://www.linkedin.com/in/yashaswini-shankar-638953216/]
 
 <!---
 RecruitNava/RecruitNava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
