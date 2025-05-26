@@ -1,9 +1,9 @@
-👋 Welcome to My GitHub Profile!
-🌟 Tech Recruiter | Talent Connector | Community Builder
-👀 Actively scouting passionate developers & engineers excited about cutting-edge tech.
-🤝 Open to collaborations with innovative and resourceful developers.
-🌱 Currently exploring GitHub to connect with talent and understand tech better.
-📫 Reach out to me: yashaswini@7edge.com | Let’s chat about exciting roles!
+- 👋 Welcome to My GitHub Profile!
+- 🌟 Tech Recruiter | Talent Connector | Community Builder
+- 👀 Actively scouting passionate developers & engineers excited about cutting-edge tech.
+- 🤝 Open to collaborations with innovative and resourceful developers.
+- 🌱 Currently exploring GitHub to connect with talent and understand tech better.
+- 📫 Reach out to me: yashaswini@7edge.com | Let’s chat about exciting roles!
 - 🔗 Let's connect on LinkedIn: [https://www.linkedin.com/in/yashaswini-shankar-638953216/]
 
 <!---
